@@ -57,7 +57,7 @@ A landing page for one of South Africa’s most breathtaking destinations, inclu
 
 ## 🎓 Education & Certifications
 
-- 🎓 Advanced Diploma in Business Management (2025)
+- 🎓 Advanced Diploma in Business Management (2024)
 - 🎓 Diploma in Electrical, Electronic and Communications Engineering
 - 🧠 CodeSpace Full-Stack Web Development Course (in progress)
 - 💡 SheCodes Responsive [View Credential](https://www.shecodes.io/certificates/73ed0ce6e9008095d5b96717f1ffb700)
@@ -65,16 +65,25 @@ A landing page for one of South Africa’s most breathtaking destinations, inclu
 - 📘 AgilePM Foundation [View Credential](https://www.credly.com/badges/73bf7e1c-a5fa-4f49-b03c-73601cfe18e2/linked_in_profile)
 
 ---
+## 📚 Currently Learning
+
+- **HTML, CSS, and JavaScript** – Building solid frontend fundamentals  
+- **React** – Understanding components, state, and props  
+- **REST APIs** – Consuming and integrating external data  
+- **Git & GitHub** – Version control and collaboration  
+- **Responsive Design** – Creating mobile-friendly web apps 
+- **Agile & Project Management** – Practical workflows for tech teams  
+- **Email Marketing APIs & Commerce Flows** – Relevant to my work at Dotdigital
+
+---
+## 🤝 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/mmanawamarongwe)  
+- 📧 Email: mashalammanawa@gmail.com  
+- 🌐 Portfolio Site: *(Coming soon)*
+
+---
+
+*Thank you for visiting my GitHub! I'm always open to collaboration, learning opportunities, or chatting about career transitions in tech.*
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
