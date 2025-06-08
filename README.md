@@ -84,6 +84,10 @@ A landing page for one of South Africa’s most breathtaking destinations, inclu
 
 ---
 
+## A Day in my life
+![image](https://github.com/user-attachments/assets/cd4c304c-b07d-457a-9fdd-5f4c5785756f)
+
+
 *Thank you for visiting my GitHub! I'm always open to collaboration, learning opportunities, or chatting about career transitions in tech.*
 
 
