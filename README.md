@@ -55,6 +55,18 @@ A landing page for one of South Africa’s most breathtaking destinations, inclu
 
 ---
 
+## 🎓 Education & Certifications
+
+- 🎓 Advanced Diploma in Business Management (2025)
+- 🎓 Diploma in Electrical, Electronic and Communications Engineering
+- 🧠 CodeSpace Full-Stack Web Development Course (in progress)
+- 💡 SheCodes Responsive [View Credential](https://www.shecodes.io/certificates/73ed0ce6e9008095d5b96717f1ffb700)
+- 💡 SheCodes Plus [View Credential](https://www.shecodes.io/certificates/a2e9c028b7b49a8fd2f87774a24a95e8)
+- 📘 AgilePM Foundation [View Credential](https://www.credly.com/badges/73bf7e1c-a5fa-4f49-b03c-73601cfe18e2/linked_in_profile)
+
+---
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
