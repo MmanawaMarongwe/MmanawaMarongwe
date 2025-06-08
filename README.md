@@ -1,6 +1,12 @@
 # Mmanawa Marongwe
 
-**Aspiring Solutions Engineer | Frontend Developer in Training | Product Expert at Dotdigital**
+**Aspiring Software Engineer | Frontend Developer in Training | Product Expert at Dotdigital**
+
+---
+
+## 👋 About Me
+
+I'm a Product Expert currently working in e-commerce tech support with a passion for solving technical problems and improving user experiences. I’m actively upskilling in web development through CodeSpace and SheCodes, with a long-term goal to transition into a Software Engineering role. I enjoy building interactive interfaces, learning through real-world projects, and making tech approachable for all users.
 
 ---
 Here are some ideas to get you started:
