@@ -32,7 +32,7 @@ I'm a Product Expert currently working in e-commerce tech support with a passion
 ## 🚀 Projects
 
 ### 🌤 Weather Forecast App
-**Live:** [View Project](https://regal-entremet-b5a03b.netlify.app/) 
+**Live:** [View Project](https://regal-entremet-b5a03b.netlify.app/)   
 **Repo:** [GitHub Link](#)  
 Built using JavaScript and the OpenWeatherMap API, this app provides a 5-day weather forecast with dynamic icons and temperature toggle between Celsius and Fahrenheit.
 
