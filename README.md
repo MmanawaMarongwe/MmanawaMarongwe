@@ -1,8 +1,8 @@
-## Hi there 👋
+# Mmanawa Marongwe
 
-<!--
-**MmanawaMarongwe/MmanawaMarongwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Solutions Engineer | Frontend Developer in Training | Product Expert at Dotdigital**
 
+---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
