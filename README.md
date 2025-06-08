@@ -83,19 +83,22 @@ A landing page for one of South Africa’s most breathtaking destinations, inclu
 - **Email Marketing APIs & Commerce Flows** – Relevant to my work at Dotdigital
 
 ---
-## 🤝 Let’s Connect
-
-- [LinkedIn](https://www.linkedin.com/in/mmanawamarongwe)  
-- 📧 Email: mashalammanawa@gmail.com  
-- 🌐 Portfolio Site: *(Coming soon)*
-
----
 
 ## A Day in my life
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cd4c304c-b07d-457a-9fdd-5f4c5785756f" width="400" alt="A Day in My Coding Life">
 </p>
+
+---
+
+## 🤝 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/mmanawamarongwe)  
+- 📧 Email: mashalammanawa@gmail.com  
+- 🌐 Portfolio Site: *(Coming soon)*
+
+
 
 
 
