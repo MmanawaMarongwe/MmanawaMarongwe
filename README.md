@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
 </p>
 
 ---
@@ -19,7 +20,7 @@ I'm a Product Expert currently working in e-commerce tech support with a passion
 
 ## 🛠 Skills
 
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, Bootstrap
 - Tailwind CSS
 - Git & GitHub
 - Responsive Web Design
@@ -36,7 +37,7 @@ I'm a Product Expert currently working in e-commerce tech support with a passion
 **Repo:** [GitHub Link](#)  
 Built using JavaScript and the OpenWeatherMap API, this app provides a 5-day weather forecast with dynamic icons and temperature toggle between Celsius and Fahrenheit.
 
-> Tools: HTML, CSS, JavaScript, API, Mobile-First Design  
+> Tools: HTML, CSS, Bootsrap, JavaScript, API, Mobile-First Design  
 > Features: Asynchronous API calls, Unit toggling, Responsive layout
 
 ---
@@ -46,7 +47,7 @@ Built using JavaScript and the OpenWeatherMap API, this app provides a 5-day wea
 **Repo:** [GitHub Link](#)  
 A time zone converter that displays the current time for multiple cities. Users select a city from a dropdown menu to see its current time.
 
-> Tools: JavaScript, moment.js, CSS  
+> Tools: JavaScript, moment.js, CSS , Bootstrap
 > Features: Real-time updates, Dropdown selection, Time formatting  
 > 🔧 *Improvement Idea:* Automatically detect user's location for default time zone
 
